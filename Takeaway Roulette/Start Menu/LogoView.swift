@@ -1,10 +1,3 @@
-//
-//  LogoView.swift
-//  Takeaway Roulette
-//
-//  Created by Ricky Stone on 08/05/2022.
-//
-
 import SwiftUI
 
 struct LogoView: View {
